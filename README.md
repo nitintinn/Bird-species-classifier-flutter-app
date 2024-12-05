@@ -2,9 +2,6 @@
 
 Flutter app that detects the species of a bird
 
-
-### Checkout Jupyter Notebook : https://github.com/prashantchanne12/Bird-species-classifier-flutter-app/blob/master/bird-species-classifier.ipynb
-
 ---
 
 ## Demo
